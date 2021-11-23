@@ -1,0 +1,9 @@
+.main-container {
+	width: 100%;
+  	height: 97%;
+  	overflow: hidden;
+}
+
+.main-container iframe {
+	border: none;
+}

@@ -1,0 +1,35 @@
+{
+  "obsNinjaLink": {
+    "type": "text",
+    "label": "OBS Ninja link",
+    "value": ""
+  },
+  "flipHorizontal": {
+    "type": "checkbox",
+    "label": "Flip Horizontal"
+  },
+  "cameraWidth": {
+    "type": "slider",
+    "label": "Width",
+    "value": 0,
+    "min": 0,
+    "max": 100,
+    "step": 1
+  },
+  "topPosition": {
+    "type": "slider",
+    "label": "Top Position",
+    "value": 0,
+    "min": -100,
+    "max": 100,
+    "step": 1
+  },
+  "leftPosition": {
+    "type": "slider",
+    "label": "Left Position",
+    "value": 0,
+    "min": -100,
+    "max": 100,
+    "step": 1
+  }
+}
