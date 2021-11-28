@@ -5,6 +5,7 @@ This widget was created to make a common stream overlay to share with other stre
 
 ## Add the widget
 To add this widget, you should select the "Custom Widget" option and copy-paste the corresponding code in each tab.
+
 ![image](https://user-images.githubusercontent.com/42984098/142971707-8f9cdfa9-d861-4cfe-952b-c8bf7ff7f5da.png)
 
 Then, the widget has some settings you can edit without modify the code:
